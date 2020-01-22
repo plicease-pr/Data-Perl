@@ -1,4 +1,6 @@
 {{$NEXT}}
+  - pod cleanups
+  - update Changes file which was missed out in last release
 
 0.002010  2020-01-22 13:28:03+00:00 Europe/London
   - adds head and tail methods for Array
