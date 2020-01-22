@@ -151,4 +151,8 @@ much of this work is based.
 
 =back
 
+=head1 MAINTAINER
+
+Toby Inkster <tobyink@cpan.org> since version 0.002010.
+
 =cut
