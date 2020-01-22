@@ -4,7 +4,7 @@ Data::Perl - Base classes wrapping fundamental Perl data types.
 
 # VERSION
 
-version 0.002010
+version 0.002011
 
 # SYNOPSIS
 
@@ -110,7 +110,7 @@ Matthew Phillips <mattp@cpan.org>
 
 Toby Inkster <tobyink@cpan.org> since version 0.002010.
 
-## CONTRIBUTORS
+# CONTRIBUTORS
 
 - Graham Knop <haarg@haarg.org>
 - Jon Portnoy <avenj@cobaltirc.org>
