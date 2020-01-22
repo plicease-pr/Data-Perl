@@ -1,3 +1,11 @@
+# NAME
+
+Data::Perl - Base classes wrapping fundamental Perl data types.
+
+# VERSION
+
+version 0.002010
+
 # SYNOPSIS
 
     use Data::Perl;
@@ -94,6 +102,25 @@ much of this work is based.
 
 - [MooX::HandlesVia](https://metacpan.org/pod/MooX::HandlesVia)
 
+# AUTHOR
+
+Matthew Phillips <mattp@cpan.org>
+
 # MAINTAINER
 
 Toby Inkster <tobyink@cpan.org> since version 0.002010.
+
+## CONTRIBUTORS
+
+- Graham Knop <haarg@haarg.org>
+- Jon Portnoy <avenj@cobaltirc.org>
+- kristof.pap@gmail.com <kristof.pap@gmail.com>
+- Matt Phillips <mattp@cpan.org>
+- Toby Inkster <tobyink@cpan.org>
+
+# COPYRIGHT AND LICENSE
+
+This software is copyright (c) 2020 by Matthew Phillips <mattp@cpan.org>.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
